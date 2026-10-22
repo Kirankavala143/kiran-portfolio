@@ -28,5 +28,5 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## 📬 Contact Me
 
-* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kiran-kavala)
+* LinkedIn: [linkedin.com/in/kiran-kavala](https://www.linkedin.com/in/kiran-kavala)
 * Email: [kavalakiran98@gmail.com](kavalakiran98@gmail.com)
