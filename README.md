@@ -29,4 +29,4 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 ## 📬 Contact Me
 
 * LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* Email: [your-email@gmail.com](kavalakiran98@gmail.com)
